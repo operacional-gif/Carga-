@@ -148,22 +148,6 @@
       "distanciaAcumulada": 0
     },
     {
-      "id": 1783103137793.9753,
-      "endereco": "Rua Grao Mogol, 650, Carmo, Belo Horizonte, MG",
-      "observacao": "187 GRAO MOGOL",
-      "dataCadastro": "03/07/2026, 15:25:37",
-      "status": "PENDENTE",
-      "recebedor": "",
-      "matricula": "",
-      "latitude": -19.9398984,
-      "longitude": -43.9318961,
-      "distancia": 6.11,
-      "tempoPercurso": 10,
-      "tempoComFinalizacao": 0,
-      "tempoAcumulado": 0,
-      "distanciaAcumulada": 0
-    },
-    {
       "id": 1783103138555.1394,
       "endereco": "Praca Marilia de Dirceu, Contagem, MG",
       "observacao": "275 INCOFIDENTES",
@@ -274,8 +258,17 @@
       "status": "PENDENTE",
       "latitude": -19.9615667,
       "longitude": -44.1381884
+    },
+    {
+      "id": 1783103669117.3608,
+      "endereco": "Avenida Tapajos, 541, Contagem, MG",
+      "observacao": "178 TAPAJOS",
+      "dataCadastro": "03/07/2026, 15:34:29",
+      "status": "PENDENTE",
+      "latitude": -19.9354459,
+      "longitude": -44.1155469
     }
   ],
   "concluidas": [],
-  "dataExportacao": "03/07/2026, 15:30:10"
+  "dataExportacao": "03/07/2026, 15:34:36"
 }
